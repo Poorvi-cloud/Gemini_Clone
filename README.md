@@ -1,30 +1,29 @@
-🌟 Gemini Clone
+# 🌟 Gemini Clone
 
-A simple and responsive Gemini (Google AI) chat UI clone using HTML, CSS, and JavaScript.
+A simple, responsive Gemini (Google AI) chat UI clone built with HTML, CSS, and JavaScript.
 
-🔥 Features
+---
 
-Clean Gemini-style design
+## 🔥 Features
 
-Interactive chat with suggestions
+- 💬 Gemini-style interface  
+- ⚡ Interactive chat with typing animation  
+- 🎨 Dark and light mode  
+- 💡 Prompt suggestions  
+- 📱 Responsive design
 
-Dark & light mode support
+---
 
-Typing and loading animations
+## 🛠 Tech Stack
 
-🛠 Tech
+- **HTML5**
+- **CSS3** (Flexbox, Custom Properties)
+- **JavaScript** (Vanilla)
 
-HTML5
+---
 
-CSS3 (Custom properties, Flexbox)
+⚙️ Customization
 
-JavaScript (Vanilla)
-
-
-⚙️ Customize
-
-Edit prompts in index.html
-
-Style in style.css
-
-Chat logic in script.js
+✏️ Change prompts in index.html
+🎨 Tweak styles in style.css
+🧠 Update logic in script.js
